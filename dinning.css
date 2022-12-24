@@ -1,5 +1,5 @@
 .dinning{
-    background: url("dinning.jpg");
+    background: url(/dinning.jpg);
     background-size: cover;
     height: 100%;
     align-content: center;
